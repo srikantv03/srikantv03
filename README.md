@@ -10,7 +10,8 @@
   </div>
   <h3>A little bit about me:</h3>
   <ul>
-    <li>I am currently an undergraduate student at Georgia Tech</li>
+    <li>I am an undergraduate student at Georgia Tech</li>
+    <li>I am currently working on my <a target="_blank" href="https://www.github.com/srikantv03/graph-visualizer">matrix-based graph algorithm visualizer</a></li> 
     <li>I love working on all kinds of software projects ⚙️</li>
     <li>I am looking to collaborate on any projects, but would specifically like to dive more into lower-level code 🖥️</li>
     <li>In my free time, I like to weightlift 🏋️‍♂️, swim 🏊‍♂️ and play cards 🎴</li>
